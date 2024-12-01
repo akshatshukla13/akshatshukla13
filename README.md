@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![akshatshukla13's Stats](https://github-readme-stats.vercel.app/api?username=akshatshukla13&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatshukla13&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="akshatshukla13's Stats" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatshukla13&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="akshatshukla13's Top Languages" style="margin-right: 10px;">
+  <a href="https://holopin.io/@akshatshukla13">
+    <img src="https://holopin.me/akshatshukla13" alt="Holopin Badges">
+  </a>
+</div>
 
-![akshatshukla13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatshukla13&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-[![An image of @akshatshukla13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshatshukla13)](https://holopin.io/@akshatshukla13)
