@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatshukla13&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="akshatshukla13's Stats" style="margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatshukla13&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="akshatshukla13's Top Languages" style="margin-right: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatshukla13&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="akshatshukla13's Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatshukla13&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="akshatshukla13's Top Languages" width="49%">
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
   <a href="https://holopin.io/@akshatshukla13">
     <img src="https://holopin.me/akshatshukla13" alt="Holopin Badges">
   </a>
 </div>
-
